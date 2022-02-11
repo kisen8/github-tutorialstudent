@@ -2,3 +2,7 @@ body {
   background-color: rgb(246, 248, 93);
   color: #1ca4ff;
 }
+.view {
+  color: blueviolet;
+  background: hotpink;
+}
